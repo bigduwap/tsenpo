@@ -1,5 +1,5 @@
 p{
-	color: #7a46f2;
+	color: #1C0049;
 }
 .content {
 	margin-top: 100px;
@@ -14,10 +14,10 @@ p{
 	font-family: oblique;
 }
 ul{
-	color:#7a46f2;
+	color:#1C0049;
 }
 li{
-	color:#7a46f2;
+	color:#1C0049;
 }
 .center{
 	display: block;
@@ -26,5 +26,5 @@ li{
   width: 50%;
 }
 html{
-	background-color: green;
+	background-color: #19C97D;
 }
