@@ -12,14 +12,15 @@ p{
 	width:1000px;
 }
 p{
-	font-family: oblique;
+	font-family: Cormorant Garamond;
 }
 ul{
 	color:#736D88
-;
+	
 }
 li{
 	color:#736D88;
+	font-family: Cormorant Garamond;
 }
 .center{
 	display: block;
