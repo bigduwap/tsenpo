@@ -25,6 +25,6 @@ li{
   margin-right: auto;
   width: 50%;
 }
-body{
-	background-color: green;
+.background-color{
+	color: green;
 }
