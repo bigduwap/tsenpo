@@ -19,3 +19,12 @@ ul{
 li{
 	color:#7a46f2;
 }
+.center{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body{
+	background-color: green;
+}
