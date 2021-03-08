@@ -7,9 +7,9 @@ p{
 	width: 80%;
 	font-size: 2em;
 }
-.fixed-image{
-	width:5px;
+.smaller-image{
+	width:50px;
 }
 p{
-	font-family: 'Khand', sans-serif;
+	font-family: oblique;
 }
