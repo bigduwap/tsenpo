@@ -1,6 +1,10 @@
 p{
 	color: #736D88;
 	text-align: center;
+	border: solid;
+	border-width: 0.5px;
+	border-color: #736D88;
+	
 }
 .content {
 	margin-top: 100px;
