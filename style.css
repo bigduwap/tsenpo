@@ -4,7 +4,8 @@ p{
 	border: solid;
 	border-width: 0.5px;
 	border-color: #736D88;
-	
+	border-style: double;
+
 }
 .content {
 	margin-top: 100px;
