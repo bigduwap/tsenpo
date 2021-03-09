@@ -46,3 +46,6 @@ header{
 	text-align: center;
 	margin-bottom: 50px;
 }
+image{
+	filter: saturate(3);
+}
