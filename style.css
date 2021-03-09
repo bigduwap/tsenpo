@@ -1,10 +1,10 @@
 p{
 	color: #736D88;
-	text-align: right;
+	text-align: center;
 }
 .content {
 	margin-top: 100px;
-	margin-left: 60px;
+	margin-left: 50px;
 	width: 80%;
 	font-size: 1.5em;
 }
@@ -21,6 +21,7 @@ ul{
 li{
 	color:#736D88;
 	font-family: Cormorant Garamond;
+	text-align: center;
 }
 .center{
 	display: block;
