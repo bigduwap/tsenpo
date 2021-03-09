@@ -54,9 +54,10 @@ image{
 	overflow: hidden;
 	background-color:#170C3A;
 }
-.active{
+.topnav a{
 	float: left;
 	color: #736D88;
 	text-align: center;
+	padding: 14px 16px;
 
 }
